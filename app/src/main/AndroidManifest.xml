@@ -10,14 +10,14 @@
         android:supportsRtl="true"
 
         android:theme="@style/AppTheme">
-        <activity android:name=".AddContactActivity" android:screenOrientation="portrait">
+        <activity android:name=".AddContactActivity" android:screenOrientation="portrait" android:label="@string/add_contact" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".ContactInformationActivity" android:screenOrientation="portrait" />
+        <activity android:name=".ContactInformationActivity" android:screenOrientation="portrait" android:label="@string/contact_information" />
     </application>
 
 </manifest>

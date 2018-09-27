@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">TwoActivities</string>
+    <string name="name">Nombre Completo</string>
+    <string name="birthday">Fecha de nacimiento</string>
+    <string name="phone">Teléfono</string>
+    <string name="email">Email</string>
+    <string name="description">Descripción contacto</string>
+    <string name="next">Siguiente</string>
+    <string name="confirm_data">Confirmar datos</string>
+    <string name="edit_data">Editar datos</string>
+    <string name="two_points">:</string>
+
+    <!--activitie names-->
+    <string name="add_contact">Agregar Contacto</string>
+    <string name="contact_information">Información de Contacto</string>
 </resources>
